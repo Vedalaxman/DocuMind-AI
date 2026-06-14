@@ -1,0 +1,42 @@
+# ===============================
+# Web Application
+# ===============================
+streamlit==1.41.1
+python-dotenv==1.0.1
+
+# ===============================
+# PDF Processing
+# ===============================
+PyPDF2==3.0.1
+
+# ===============================
+# LangChain RAG Framework
+# ===============================
+langchain==1.3.9
+langchain-community
+langchain-classic
+langchain-text-splitters
+
+# ===============================
+# Gemini LLM
+# ===============================
+langchain-google-genai
+google-generativeai
+
+# ===============================
+# HuggingFace Embeddings
+# ===============================
+langchain-huggingface
+sentence-transformers
+
+# ===============================
+# Vector Database
+# ===============================
+faiss-cpu==1.9.0
+
+# ===============================
+# ML Dependencies
+# ===============================
+torch
+transformers
+numpy
